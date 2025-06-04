@@ -1,6 +1,10 @@
 # 30DaysofPowerShell
 
-Follow along with my son and I as we complete a 30 day PowerShell learning course.
+## Please note: 
+This is an old project that Ive revived and tweaked to help teach my son how use Powershell for administration and automation tasks. 
+I designed the content to get progressively more complex but ive stretched the content a bit to make 30 days worth of topics and practice.
+We will be updating the repo as frequently as life and free time allows - a true script kiddie education.
+Follow along with my son and I as we complete a 30 day PowerShell learning challenge.
 
 ## 🧭 30-Day PowerShell + Automation Curriculum
 Each day includes:<br>
@@ -10,20 +14,20 @@ ________________________________________
 ### 🔰 Week 1: PowerShell Fundamentals
 <pre>
 Day 1: Introduction to PowerShell
-• Topics: What is PowerShell, Cmdlets, Console vs ISE vs VS Code
-• Exercise: Run basic cmdlets (Get-Command, Get-Help, Get-Process, Get-Service)<br>
+√ Topics: What is PowerShell, Cmdlets, Console vs ISE vs VS Code
+√ Exercise: Run basic cmdlets (Get-Command, Get-Help, Get-Process, Get-Service)<br>
 Day 2: Cmdlets and Aliases
-• Topics: Cmdlet structure, common aliases, Get-Alias
-• Exercise: Create a cheat sheet of 20 cmdlets and their aliases<br>
+√ Topics: Cmdlet structure, common aliases, Get-Alias
+√ Exercise: Create a cheat sheet of 20 cmdlets and their aliases<br>
 Day 3: Variables and Data Types
-• Topics: $variables, strings, arrays, hash tables
-• Exercise: Create a script that stores and displays system info<br>
+√ Topics: $variables, strings, arrays, hash tables
+√ Exercise: Create a script that stores and displays system info<br>
 Day 4: Operators and Expressions
-• Topics: Comparison, logical, arithmetic operators
-• Exercise: Write a script that checks disk space and alerts if low<br>
+√ Topics: Comparison, logical, arithmetic operators
+√ Exercise: Write a script that checks disk space and alerts if low<br>
 Day 5: Conditional Logic
-• Topics: if, elseif, else, switch
-• Exercise: Script to check service status and restart if stopped<br>
+√ Topics: if, elseif, else, switch
+√ Exercise: Script to check service status and restart if stopped<br>
 Day 6: Loops
 • Topics: for, foreach, while, do-while
 • Exercise: Loop through a list of computers and ping them<br>
