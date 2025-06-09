@@ -29,24 +29,24 @@ Day 5: Conditional Logic
 √ Topics: if, elseif, else, switch
 √ Exercise: Script to check service status and restart if stopped<br>
 Day 6: Loops
-• Topics: for, foreach, while, do-while
-• Exercise: Loop through a list of computers and ping them<br>
+√ Topics: for, foreach, while, do-while
+√ Exercise: Loop through a list of computers and ping them<br>
 Day 7: Functions and Scope
-• Topics: Defining functions, parameters, scope
-• Exercise: Create a function to get user info from AD (mocked)
+√ Topics: Defining functions, parameters, scope
+√ Exercise: Create a function to get user info from AD (mocked)
 </pre>
 ________________________________________
 ### ⚙️ Week 2: Scripting and Automation Basics
 <pre>
 Day 8: Script Files and Execution Policy
-• Topics: .ps1 files, execution policies, signing scripts
-• Exercise: Write and run a script that logs system info to a file<br>
+√ Topics: .ps1 files, execution policies, signing scripts
+√ Exercise: Write and run a script that logs system info to a file<br>
 Day 9: Error Handling
-• Topics: try, catch, finally, $ErrorActionPreference
-• Exercise: Script that handles missing files gracefully<br>
+√ Topics: try, catch, finally, $ErrorActionPreference
+√ Exercise: Script that handles missing files gracefully<br>
 Day 10: Working with Files and Folders
-• Topics: Get-Item, Copy-Item, Remove-Item, Test-Path
-• Exercise: Backup script for a folder with logging<br>
+√ Topics: Get-Item, Copy-Item, Remove-Item, Test-Path
+√ Exercise: Backup script for a folder with logging<br>
 Day 11: Working with CSV, JSON, XML
 • Topics: Import-Csv, ConvertTo-Json, Select-Xml
 • Exercise: Parse a CSV of users and output a report<br>
