@@ -48,23 +48,23 @@ Day 10: Working with Files and Folders
 √ Topics: Get-Item, Copy-Item, Remove-Item, Test-Path
 √ Exercise: Backup script for a folder with logging<br>
 Day 11: Working with CSV, JSON, XML
-• Topics: Import-Csv, ConvertTo-Json, Select-Xml
-• Exercise: Parse a CSV of users and output a report<br>
+√ Topics: Import-Csv, ConvertTo-Json, Select-Xml
+√ Exercise: Parse a CSV of users and output a report<br>
 Day 12: Scheduled Tasks
-• Topics: Register-ScheduledTask, schtasks.exe
-• Exercise: Automate a daily cleanup script<br>
+√ Topics: Register-ScheduledTask, schtasks.exe
+√ Exercise: Automate a daily cleanup script<br>
 Day 13: PowerShell Remoting
-• Topics: Enter-PSSession, Invoke-Command, WinRM
-• Exercise: Run a script on a remote machine (lab setup)<br>
+√ Topics: Enter-PSSession, Invoke-Command, WinRM
+√ Exercise: Run a script on a remote machine (lab setup)<br>
 Day 14: Review + Mini Project
-• Exercise: Create a script that audits system info and emails a report<br>
+√ Exercise: Create a script that audits system info and emails a report<br>
 </pre>
 ________________________________________
 ### 🧠 Week 3: Advanced Scripting & Modules
 <pre>
 Day 15: Modules and Snap-ins
-• Topics: Import-Module, Get-Module, creating modules
-• Exercise: Package your audit script as a module<br>
+√ Topics: Import-Module, Get-Module, creating modules
+√ Exercise: Package your audit script as a module<br>
 Day 16: Working with APIs
 • Topics: Invoke-RestMethod, Invoke-WebRequest
 • Exercise: Pull weather data from an API and display it<br>
